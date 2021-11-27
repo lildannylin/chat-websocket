@@ -1,4 +1,4 @@
-module chat-websocket
+module github.com/lildannylin/chat-websocket
 
 go 1.17
 
